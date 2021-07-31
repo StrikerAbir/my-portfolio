@@ -5,6 +5,9 @@ body{
 h1{
     font-size:50px;
 }
+h2{
+    font-size: 40px;
+}
 .name-highlight{
     color: orange;
 }
@@ -26,6 +29,7 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .link-btn{
     text-decoration: none;
@@ -34,5 +38,9 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: bold;
-
+}
+.dream-area{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
